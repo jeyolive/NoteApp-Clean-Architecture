@@ -1,7 +1,7 @@
 # NoteApp Domain-Driven Clean Architecture with FlutterBloc + Freezed + Hive
 <Image src="screenshots/cover.png" width ="100%">
   
-[Live Web Demo 🚀](https://imsanjaysoni.github.io/NoteApp-Clean-Architecture/)
+[Live Web Demo 🚀](https://jeyolive.github.io/NoteApp-Clean-Architecture/)
 
 
 #### Screenshots
